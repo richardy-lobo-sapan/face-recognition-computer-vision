@@ -154,6 +154,12 @@ python_version = "3.7"
 
 ---
 
+## 🙏 Acknowledgments
+
+This project was rebuilt by following an external tutorial or course. Full credit goes to the original author for the concept, structure, and guidance. If you recognize this project, feel free to open an issue with the source link so it can be properly credited here. (i forgot te-he)
+
+---
+
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
